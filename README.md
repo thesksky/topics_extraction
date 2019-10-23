@@ -4,4 +4,4 @@ Attempted to extract topics from recipe names which could be Desserts, Snacks, S
 These topics would be described by key words.
 
 Features: When recipes are sorted by topic, one can look through Desserts for inspiration (that's what I would do)
-as opposed to always searching for a scpefici recipe.
+as opposed to searching for a specific recipe in mind.
